@@ -1,0 +1,1 @@
+{"name":"sumneko_lua","secondary_sources":[],"primary_source":{"file":"https:\/\/github.com\/sumneko\/vscode-lua\/releases\/download\/v3.2.4\/vscode-lua-v3.2.4-linux-x64.vsix","repo":"sumneko\/vscode-lua","release":"v3.2.4","type":"github_release_file"},"schema_version":"1.0a","metrics":{"completion_time":1654172858661,"start_time":1654172857102}}

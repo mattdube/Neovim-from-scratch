@@ -1,0 +1,67 @@
+[05:13:30.928][info] [#0:/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:65]: Lua Lsp startup, root: 	/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[05:13:30.928][info] [#0:/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:66]: ROOT:	/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server
+[05:13:30.928][info] [#0:/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:67]: LOGPATH:	/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log
+[05:13:30.928][info] [#0:/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:68]: METAPATH:	/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta
+[05:13:30.928][info] [#0:/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/main.lua:69]: VERSION:	3.2.4
+[05:13:30.967][info] [#0:script/service/service.lua:141]: 
+========= Medical Examination Report =========
+    --------------- Memory ---------------
+        Total: 1.439 MB
+        # 00 : 1.439 MB
+        # 01 : 0.000 MB
+        # 02 : 0.000 MB
+        # 03 : 0.000 MB
+        # 04 : 0.000 MB
+    --------------- Coroutine ---------------
+        Total:     0
+        Running:   0
+        Suspended: 0
+        Normal:    0
+        Dead:      0
+    --------------- Cache ---------------
+        Total: 1
+        Dead:  0
+    ---------------  RPC  ---------------
+        Holdon:   0
+        Waiting:  0
+==============================================
+[05:13:31.073][info] [#0:script/language.lua:137]: VSC language: nil
+[05:13:31.073][info] [#0:script/language.lua:138]: LS  language: en-us
+[05:13:31.073][info] [#0:script/workspace/workspace.lua:39]: Workspace init root: 	file:///home/mattdube/.config/nvim
+[05:13:31.073][info] [#0:script/workspace/workspace.lua:43]: Log path: 	/home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/log/file_home_mattdube_.config_nvim.log
+[05:13:31.073][info] [#0:script/workspace/workspace.lua:49]: Workspace create: 	file:///home/mattdube/.config/nvim
+[05:13:31.178][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/mattdube/.config/nvim
+[05:13:31.178][info] [#0:script/provider/provider.lua:40]: Load config from client	file:///home/mattdube/.config/nvim
+[05:13:31.178][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[05:13:31.178][info] [#0:script/library.lua:207]: Init builtin library at:	nil
+[05:13:31.190][info] [#0:script/library.lua:207]: Init builtin library at:	file:///home/mattdube/.config/nvim
+[05:13:31.197][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[05:13:31.197][info] [#0:script/plugin.lua:80]: plugin path:	nil
+[05:13:31.197][info] [#0:script/provider/provider.lua:55]: Load config from client	fallback
+[05:13:31.198][info] [#0:script/workspace/workspace.lua:285]: Preload start:	file:///home/mattdube/.config/nvim
+[05:13:31.201][info] [#0:script/workspace/workspace.lua:291]: Scan files at:	file:///home/mattdube/.config/nvim
+[05:13:31.201][info] [#0:script/workspace/workspace.lua:285]: Preload start:	<fallback>
+[05:13:31.201][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/mattdube/nvim/share/nvim/runtime/lua
+[05:13:31.207][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[05:13:31.209][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/mattdube/.config/nvim/lua
+[05:13:31.215][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/mattdube/nvim/share/nvim/runtime/lua
+[05:13:31.218][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/mattdube/.local/share/nvim/lsp_servers/sumneko_lua/extension/server/meta/Lua%205.4%20en-us%20utf8
+[05:13:31.219][info] [#0:script/workspace/workspace.lua:307]: Scan library at:	file:///home/mattdube/.config/nvim/lua
+[05:13:33.001][info] [#0:script/workspace/workspace.lua:327]: Found 74 files at:	<fallback>
+[05:13:33.001][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	<fallback>
+[05:13:33.001][info] [#0:script/workspace/workspace.lua:327]: Found 101 files at:	file:///home/mattdube/.config/nvim
+[05:13:33.001][info] [#0:script/workspace/loading.lua:152]: Load files from disk:	file:///home/mattdube/.config/nvim
+[05:13:33.601][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.620] sec: <fallback>
+[05:13:33.602][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: <fallback>
+[05:13:33.602][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	<fallback>
+[05:13:33.602][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	<fallback>
+[05:13:35.001][info] [#0:script/workspace/loading.lua:164]: Loaded files takes [0.628] sec: file:///home/mattdube/.config/nvim
+[05:13:35.001][info] [#0:script/workspace/loading.lua:173]: Compile files takes [0.000] sec: file:///home/mattdube/.config/nvim
+[05:13:35.001][info] [#0:script/workspace/loading.lua:174]: Loaded finish:	file:///home/mattdube/.config/nvim
+[05:13:35.001][info] [#0:script/workspace/workspace.lua:329]: Preload finish at:	file:///home/mattdube/.config/nvim
+[05:13:35.001][info] [#0:script/provider/diagnostic.lua:393]: Diagnostics scope [file:///home/mattdube/.config/nvim], files count:[75]
+[05:13:35.002][info] [#0:script/provider/diagnostic.lua:393]: Diagnostics scope [<fallback>], files count:[75]
+[05:13:35.036][info] [#0:script/provider/diagnostic.lua:410]: Diagnostics scope [file:///home/mattdube/.config/nvim] finished, takes [0.034] sec.
+[05:13:35.036][info] [#0:script/provider/diagnostic.lua:410]: Diagnostics scope [<fallback>] finished, takes [0.034] sec.
+[05:14:24.682][info] [#0:script/provider/provider.lua:167]: Server shutdown.
+[05:14:24.683][info] [#0:script/provider/provider.lua:160]: Server exited.
